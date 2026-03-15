@@ -20,3 +20,14 @@ This project focuses on implementing industry-standard cryptographic practices:
 - **Auto-save & Undo:** All changes are automatically encrypted and saved; supports up to 20 levels of undo.
 - **Search & Filter:** Quickly find your credentials using the real-time search bar.
 - **CSV Support:** Import from or export to CSV for easy migration from other managers.
+
+## 📥 Download
+
+You can download the latest portable version of Trusted Password Manager from the 
+[Releases page](https://github.com/arti-st/TrustedPasswordManager/releases/tag/v1.0.0).
+
+**How to run:**
+1. Download the latest `.zip` file.
+2. Extract the archive to any folder.
+3. Run `TrustedPM.exe`.
+   *(No installation required!)*
