@@ -1,3 +1,5 @@
+<img src="assets/lock.png" width="200" alt="Project Logo">
+
 # Trusted Password Manager
 
 A lightweight and secure password manager built with **Python** and **PyQt6**. This application allows users to create encrypted vaults to store sensitive login information, service details, and notes.
