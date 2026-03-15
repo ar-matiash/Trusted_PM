@@ -1,4 +1,4 @@
-<img src="assets/trusted.png" width="200" alt="Project Logo">
+<img src="assets/trusted.png" width="900" alt="Project Logo">
 
 # Trusted Password Manager
 
